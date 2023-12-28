@@ -1,0 +1,9 @@
+.title > .poem-title {
+    font-weight: 900;
+    font-size: 38px;
+}
+
+.title > .artist {
+    font-style: italic;
+    
+}
